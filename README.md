@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **shahdragab89/shahdragab89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,38 +13,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Shahd Ragab!
+<h1 align="center">Hey there, I'm Shahd Ragab! 👋</h1>
+<h3 align="center">🎓 Biomedical Engineering Student | 💡 Signal Processing & Embedded Systems Enthusiast</h3>
 
-Welcome to my GitHub profile!
+---
 
-- **Student** at Cairo University | System and Biomedical Engineering.
-- Passionate about **signal processing**, **embedded systems**, and **assistive technologies**.
-- Currently working on a **Signal Viewer** project and a **Sign Language Assistive Device**.
+### 🌟 About Me
 
-## Projects
-- [Signal Viewer](https://github.com/hassnaa11/Signal-Viewer)
-- [More projects here](#) *(add links to other projects)*
+I'm a 20-year-old student at **Cairo University**, studying **Systems and Biomedical Engineering**. I love combining **software** and **hardware** to create tech that helps people — especially in the fields of:
 
-## Skills
+- ⚡ Digital Signal Processing  
+- 🔧 Embedded Systems  
+- 🤖 Assistive Technologies  
 
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)  
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) 
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+I'm currently working on:
+- A **real-time Signal Viewer** built with Python & PyQt5  
+- A **Sign Language Assistive Device** to support people with speech and hearing impairments  
 
-**Core Skills**  
+---
+
+### 💻 Tech Stack
+
+#### 🧠 Languages
+`Python` • `C` • `C++` • `Java` • `JavaScript` • `HTML` • `CSS` • `Arduino`
+
+#### 🔧 Tools & Concepts
+- PyQt5, OpenCV, Matplotlib, pandas  
 - Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms  
-- Embedded Systems  
-- Web Development  
-- Digital Signal Processing  
-- Computer Vision
+- Embedded Systems (Arduino, sensors)  
+- Web Development (Frontend basics)  
 
+---
 
-## Let's Connect!
-[LinkedIn](#) | [Portfolio](#) | [Email](shahdragab89@gmail.com)
+### 🚀 Projects
+
+- [**Signal Viewer**](https://github.com/hassnaa11/Signal-Viewer)  
+  Real-time signal visualization with scrolling support using PyQt5 and pyqtgraph.
+
+- **Sign Language Assistive Device** *(Work in Progress)*  
+  An embedded system that detects hand gestures and translates them to text or speech.
+
+---
+
+### 📬 Get in Touch
+
+- **LinkedIn**: *[your-link-here]*  
+- **Email**: *your-email@example.com*  
+
+---
+
+Thanks for stopping by! Let's build something awesome together! 💙
+
