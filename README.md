@@ -24,11 +24,8 @@ I'm a 20-year-old student at **Cairo University**, studying **Systems and Biomed
 
 - ⚡ Digital Signal Processing  
 - 🔧 Embedded Systems  
-- 🤖 Assistive Technologies  
-
-I'm currently working on:
-- A **real-time Signal Viewer** built with Python & PyQt5  
-- A **Sign Language Assistive Device** to support people with speech and hearing impairments  
+- 🤖 Assistive Technologies
+- Computer vision
 
 ---
 
@@ -44,15 +41,6 @@ I'm currently working on:
 - Embedded Systems (Arduino, sensors)  
 - Web Development (Frontend basics)  
 
----
-
-### 🚀 Projects
-
-- [**Signal Viewer**](https://github.com/hassnaa11/Signal-Viewer)  
-  Real-time signal visualization with scrolling support using PyQt5 and pyqtgraph.
-
-- **Sign Language Assistive Device** *(Work in Progress)*  
-  An embedded system that detects hand gestures and translates them to text or speech.
 
 ---
 
