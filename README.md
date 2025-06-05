@@ -46,8 +46,8 @@ I'm a 20-year-old student at **Cairo University**, studying **Systems and Biomed
 
 ### 📬 Get in Touch
 
-- **LinkedIn**: *[your-link-here]*  
-- **Email**: *your-email@example.com*  
+- **LinkedIn**: *https://www.linkedin.com/in/shahd-ragab-7b32aa266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*  
+- **Email**: *shahdragab89@gmail.com*  
 
 ---
 
